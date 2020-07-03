@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip1601003633.mobgslb.tbcache.com/Firmware/Flyme/16xs/8.20.6.16/cn_beta/20200611203002/f6caf953/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=39d903a6e37947a5c79bb0b110f9de1aac222c9a7174c9d4&ali_redirect_ex_tmining_ts=1592991832&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
-  ROM_NAME: Flyme
+  ROM_URL: https://hugeota.d.miui.com/20.7.2/miui_CEPHEUS_20.7.2_c25e0908de_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
