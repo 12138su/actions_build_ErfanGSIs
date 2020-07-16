@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/16xs/8.20.6.22/cn_daily/20200622002028/8fabf96a/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
